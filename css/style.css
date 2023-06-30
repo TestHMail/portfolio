@@ -339,7 +339,7 @@ i
 
     .carousel-item
     {
-        width: 90vw;
+        max-width: 90vw;
         margin: auto;
     }
 
