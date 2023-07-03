@@ -357,6 +357,11 @@ i
         margin: 20px auto 0 auto;
     }
 
+    .carousel p
+    {
+        margin: 0 50px 0 50px;
+    }
+
     .competenze ul
     {
         display: grid;
