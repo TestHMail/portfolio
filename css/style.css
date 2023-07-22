@@ -336,6 +336,11 @@ i
         transform: translateX(0);
     }
 
+    #description-p-2
+    {
+        display: none;
+    }
+
     #logo-img
     {
         display: none;
